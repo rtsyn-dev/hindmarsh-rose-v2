@@ -1,0 +1,6 @@
+name = "Hindmarsh Rose v2"
+kind = "hindmarsh_rose_v2"
+version = "0.1.0"
+description = "Hindmarsh-Rose v2 neuron model with C implementation"
+library = "libhindmarsh_rose_v2.so"
+
